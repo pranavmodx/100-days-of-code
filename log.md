@@ -10,4 +10,10 @@
 **Link to work:** [Calculator App](http://www.example.com) -->
 
 
+### Day 1: 21 December 2018
+#####
+
+**Today's Progress**: 
+
+**Thoughts:** 
 
